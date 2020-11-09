@@ -1,0 +1,29 @@
+body {
+    background-color: coral;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+
+}
+
+.navbar {
+    box-sizing: border-box;
+    height: 25em;
+    width: 13em;
+    float: left;
+    background-color: aquamarine;
+    border: 1px solid blue;
+    margin: 10em 5em 0 10em;
+}
+
+.grid-container {
+    box-sizing: border-box;
+    float: right;
+    margin: 5em 18em 5em 5em;
+    border: 1px solid black;
+    display: inline-block;
+    height: 35em;
+    width: 35em;
+}
