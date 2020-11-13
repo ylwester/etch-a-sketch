@@ -38,6 +38,7 @@ body {
     /* border: 1px solid black; */
     height: 35em;
     width: 35em;
+    background-color: white;
  /*   grid-gap: 1em; */
     grid-template-rows: repeat(var(--grid-rows), 1fr);
     grid-template-columns: repeat(var(--grid-cols), 1fr);
